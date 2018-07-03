@@ -8,6 +8,7 @@ In order to correctly automate multiple types of testing, we need to use a techn
 - Hamcrest: Assertions library 
 - Rest-Assured: Service level testing framework, designed for REST.
 - Selenium: UI testing framework
+- WireMock: Service virtualization framework
 - Appium: Mobile testing framework
 
 ### Core Java
